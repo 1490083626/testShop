@@ -1,6 +1,6 @@
 # testshop
 
-> A Vue.js project
+> Vue练手小商城
 
 ## Build Setup
 
